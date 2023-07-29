@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Android-Lesson-003</string>
+    <string name="title1_cat">Categories</string>
+    <string name="title2_pop">Popular Now</string>
+    <string name="layer1_burger">Burger</string>
+    <string name="layer1_drink">Drink</string>
+    <string name="layer1_pizza">Pizza</string>
+    <string name="layer2_1_beefburger">Beef Burger</string>
+    <string name="layer2_2_beefburger">Mcdi</string>
+    <string name="layer2_3_beefburger">Rp. 20.000</string>
+    <string name="layer2_1_pizzafruit">Pizza Fruit</string>
+    <string name="layer2_2_pizzafruit">Pijja Hut</string>
+    <string name="layer2_3_pizzafruit">Rp. 40.000</string>
+    <string name="layer2_1_sandwich">Sandwich</string>
+    <string name="layer2_2_sandwich">Example</string>
+    <string name="layer2_3_sandwich">Rp. 35.000</string>
+</resources>
